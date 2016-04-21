@@ -1,0 +1,13 @@
+#include<iostream>
+
+using namespace std;
+
+ int main ()
+ {
+     short number;
+     cout<<" Enter a number:";
+     
+     return 0;
+ }
+     
+     
